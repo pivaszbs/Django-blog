@@ -25,7 +25,7 @@ SECRET_KEY = 'ut1@7(tb@*fh-$+)11c$&8@(#@uabz1ie(s^0*ucmj*3s(8-)*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'Maminproger.pythonabywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'maminproger228.pythonabywhere.com']
 
 
 # Application definition
